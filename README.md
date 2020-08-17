@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+![(Obi-Wan quote)](https://media1.tenor.com/images/a83b88b76aee5b153240e9950d52d53d/tenor.gif?itemid=11548408)
 
 <!--
 **EmanueleC/EmanueleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
